@@ -13,5 +13,6 @@ npm start
 
 [travis-image]: https://travis-ci.org/yakovlevgleb/portf.svg?branch=master
 [travis-url]: https://travis-ci.org/yakovlevgleb/portf
-[dependency-image]: https://david-dm.org/yakovlevgleb/portf.svg?style=flat-square
-[dependency-url]: https://david-dm.org/yakovlevgleb/portf?type=dev
+
+[devDependencies-image]: https://david-dm.org/yakovlevgleb/portf/dev-status.svg
+[devDependencies-url]: https://david-dm.org/yakovlevgleb/portf?type=dev

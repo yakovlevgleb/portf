@@ -1,4 +1,4 @@
-# personal-site [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# personal-site [![Build status][travis-image]][travis-url] 
 02 11 2017
 
 ## Install & Run
@@ -13,5 +13,3 @@ npm start
 
 [travis-image]: https://travis-ci.org/yakovlevgleb/portf.svg?branch=master
 [travis-url]: https://travis-ci.org/yakovlevgleb/portf
-[dependency-image]: https://david-dm.org/yakovlevgleb/portf.svg?style=flat-square
-[dependency-url]: https://david-dm.org/yakovlevgleb/portf?type=dev

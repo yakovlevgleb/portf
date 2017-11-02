@@ -1,4 +1,4 @@
-# personal-site [![Build status][travis-image]][travis-url] 
+# personal-site [![Build status][travis-image]][travis-url] [![devDependency status][devDependencies-image]][devDependencies-url]
 02 11 2017
 
 ## Install & Run
@@ -13,3 +13,6 @@ npm start
 
 [travis-image]: https://travis-ci.org/yakovlevgleb/portf.svg?branch=master
 [travis-url]: https://travis-ci.org/yakovlevgleb/portf
+
+[devDependencies-image]: https://david-dm.org/yakovlevgleb/fitapp/dev-status.svg
+[devDependencies-url]: https://david-dm.org/yakovlevgleb/fitapp?type=dev

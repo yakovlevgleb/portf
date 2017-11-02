@@ -1,4 +1,4 @@
-# personal-site [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# personal-site [![Build status][travis-image]][travis-url] [![devDependency status][devDependencies-image]][devDependencies-url]
 02 11 2017
 
 ## Install & Run

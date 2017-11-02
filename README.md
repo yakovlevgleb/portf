@@ -14,5 +14,5 @@ npm start
 [travis-image]: https://travis-ci.org/yakovlevgleb/portf.svg?branch=master
 [travis-url]: https://travis-ci.org/yakovlevgleb/portf
 
-[devDependencies-image]: https://david-dm.org/yakovlevgleb/fitapp/dev-status.svg
-[devDependencies-url]: https://david-dm.org/yakovlevgleb/fitapp?type=dev
+[devDependencies-image]: https://david-dm.org/yakovlevgleb/portf/dev-status.svg
+[devDependencies-url]: https://david-dm.org/yakovlevgleb/portf?type=dev

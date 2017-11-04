@@ -1,58 +1,7 @@
 @import normalize
-
-html,
-body
-  width: 100%
-  height: 100%
-
-body
-	background: #fff
-
-	font-family: 'Open Sans', Arial, sans-serif
-
-.container
-  width: 900px
-  margin: 0 auto
-
-.header
-  .container
-    display: flex
-    justify-content: space-between
-.navigation
-
-  .active
-    &::before
-      content: ''
-      position: absolute
-      width: 100%
-      height: 4px
-      background-color: #ffde38
-      bottom: -15px
-
-  ul
-    display: flex
-    list-style: none
-
-
-
-    li
-      position: relative
-      margin-right: 40px
-      &:nth-last-child(1)
-        margin: 0
-      a
-        text-decoration: none
-        color: #000
-        text-transform: uppercase
-        font-weight: 700
-        line-height: 20px
-        font-size: 14px
-
-      &:hover
-        &::before
-          content: ''
-          position: absolute
-          width: 100%
-          height: 4px
-          background-color: #ffde38
-          bottom: -15px
+@import main
+@import header
+@import intro
+@import portfolio
+@import preview
+@import footer

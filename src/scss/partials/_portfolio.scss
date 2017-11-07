@@ -1,0 +1,9 @@
+.portfolio {
+	margin-bottom: 50px;
+	.container {
+		display: flex;
+
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+}

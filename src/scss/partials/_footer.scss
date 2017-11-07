@@ -1,0 +1,35 @@
+.footer {
+	border: 1px solid rgba(0,0,0,0.1);
+
+	.container {
+		display: flex;
+
+		justify-content: space-between;
+	}
+}
+
+.footer__copyrights {
+	display: flex;
+	flex-direction: column;
+
+	justify-content: center;
+}
+
+.social__list {
+	display: flex;
+
+	list-style: none;
+}
+
+.social__item {
+	margin: 0 10px;
+
+	opacity: 0.6;
+
+	&:hover {
+		transition: all 200ms ease;
+		transform: scale(1.2);
+
+		opacity: 0.9;
+	}
+}

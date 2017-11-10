@@ -1,6 +1,5 @@
-# personal-site [![Build status][travis-image]][travis-url] [![devDependency status][devDependencies-image]][devDependencies-url]
+# personal-site [![Build status][travis-image]][travis-url] [![devDependency status][devDependencies-image]][devDependencies-url][![Greenkeeper badge](https://badges.greenkeeper.io/yakovlevgleb/portf.svg)](https://greenkeeper.io/)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/yakovlevgleb/portf.svg)](https://greenkeeper.io/)
 02 11 2017
 
 ## Install & Run
